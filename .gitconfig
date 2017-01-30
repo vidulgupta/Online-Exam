@@ -1,0 +1,8 @@
+[color]
+	ui = auto
+[core]
+	editor = '%windir%\\system32\\notepad.exe' -n -w
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
